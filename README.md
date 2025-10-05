@@ -1,10 +1,7 @@
 <!-- Cosmic GitHub Profile README for SHAIK ZAHEER ABBAS -->
 
 # 🌌👨‍💻🤖 SHAIK ZAHEER ABBAS  
-**Software Engineer | Cosmic Coder | AI Alchemist | Open-Source Pioneer**
-
-![Banner](https://your-image-url.com/starry-nebula-banner.png)  
-
+**Software Engineer | Cosmic Coder | AI Alchemist | Open-Source Pioneer** 
 
 ---
 
@@ -104,7 +101,7 @@ LeetCode-style solutions with explanations and visualizations.
 - 📧 Email: [zaheerares1526@gmail.com](mailto:zaheerares1526@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/shaikzaheerabbas](https://linkedin.com/in/shaikzaheerabbas)  
 - 🧠 Portfolio: Coming soon...  
-- 🌐 Website: [ZaheerAst25]([https://shaikzaheer.dev](https://discord.com/channels/@me)) 
+- 🌐 Discord: [ZaheerAst25](https://discord.com/channels/@me) 
 
 </details>
 
@@ -113,7 +110,7 @@ LeetCode-style solutions with explanations and visualizations.
 
 
 **Made with ❤️ and cosmic energy by SHAIK ZAHEER ABBAS**  
-![Footer Banner](https://your-image-url.com/footer-banner.png)  
+
 
 
 ---
