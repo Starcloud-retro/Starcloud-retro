@@ -92,8 +92,8 @@ LeetCode-style solutions with explanations and visualizations.
 
 ## <details><summary>📊 GitHub Stats</summary>
 
-![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikzaheerabbas&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikzaheerabbas&layout=compact&theme=radical)
+![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Starcloud-retro&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starcloud-retro&layout=compact&theme=radical)
 
 </details>
 
