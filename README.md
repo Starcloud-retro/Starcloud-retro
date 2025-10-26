@@ -1,7 +1,3 @@
-**Preparing README**
-
-The user wants a concise README, similar to the template they provided, with no extra commentary. I need to fix a few things: make it more professional but still succinct, remove any unnecessary “cosmic” lines, and correct formatting issues (like language and links). I'll update the Discord link, ensure placeholders are in place, and update links to the correct GitHub username. My focus is keeping the style consistent and adhering to their instructions. I'll only provide the finished Markdown.
-<!-- Professional GitHub Profile README for SHAIK ZAHEER ABBAS -->
 
 # SHAIK ZAHEER ABBAS  
 *Software Engineer | AI & ML Student | Computational Astronomy Enthusiast*
