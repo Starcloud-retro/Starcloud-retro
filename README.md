@@ -2,7 +2,7 @@
 <div align="center">
 
 # SHAIK ZAHEER ABBAS           
-# AI × Astrochemistry × Space Research 
+# B.Tech CSE (AI & ML) | Parallel B.Sc Mathematics | Exploring AI for Astrochemistry & Space Research | Aspiring Researcher
 
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Starcloud--retro.github.io-00e5ff?style=for-the-badge&labelColor=020408)](https://Starcloud-retro.github.io)
