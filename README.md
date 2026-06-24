@@ -4,7 +4,9 @@
 
 **Computational Astrochemistry · Machine Learning for Astronomy · Molecular Spectroscopy**
 
-[Portfolio](https://starcloud-retro.github.io) · [Email](mailto: zaheerares1256@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-starcloud--retro.github.io-58a6ff?style=flat-square&logo=github)](https://starcloud-retro.github.io)
+[![Email](https://img.shields.io/badge/Email-zaheerares1256%40gmail.com-ea4335?style=flat-square&logo=gmail)](mailto:zaheerares1256@gmail.com)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?style=flat-square&logo=researchgate)](https://www.researchgate.net/profile/Shaik-Abbas-2)
 
 </div>
 
@@ -16,9 +18,9 @@ I build computational tools that bridge **astrophysics** and **machine learning*
 
 | Problem | Approach | Status |
 |---------|----------|--------|
-| Which exoplanets could support life? | Random Forest + Logistic Regression on NASA archive data | Mini project, Oct 2026 target |
-| Can a machine read ALMA spectra? | CNN for molecular line identification in noisy data | Major project, 2027 target |
-| How do molecules form in space? | ODE solver for astrochemical reaction networks | Foundation, ongoing |
+| Which exoplanets could support life? | Random Forest + Logistic Regression on NASA archive data | Mini project, Oct 2026 |
+| Can a machine read ALMA spectra? | CNN for molecular line identification in noisy data | Major project, 2027 |
+| How do molecules form in space? | ODE solver for astrochemical reaction networks | Foundation |
 
 Each project feeds the next. Exoplanet habitability teaches me classification. Molecular line ID teaches me spectral analysis. Chemical kinetics teaches me the physics underneath. The goal is a unified tool: observe a star-forming region, identify its molecules, infer its chemistry, predict its planet-forming potential.
 
@@ -73,7 +75,7 @@ Literature reviews, reproduced methodologies, and research proposals.
 
 This portfolio. Built with pure HTML/CSS/JS. No frameworks. Loads instantly on any device.
 
-**Why no React/Vite/Next.js:** A professor opening this on a phone in an airport doesn't need a build step. They need content. The tech stack is invisible by design.
+**Why no React/Vite/Next.js:** Any professor or enthusiast opening this on a phone in an airport doesn't need a build step. They need content. The tech stack is invisible by design.
 
 **Contains:**
 - Interactive 3D models (Three.js): habitable zone solar system, water molecule, ALMA spectral window
@@ -88,7 +90,7 @@ This portfolio. Built with pure HTML/CSS/JS. No frameworks. Loads instantly on a
 | Repository | What It Will Be | When |
 |-----------|----------------|------|
 | [scientific-python](https://github.com/Starcloud-retro/scientific-python) | 42 math topics → Python implementations. NumPy, SciPy, SymPy. | 3rd year, 2026-27 |
-| [shabbs-mathematics-journal](https://github.com/Starcloud-retro/shabbs-mathematics-journal) | Theory + proofs + code. From sets to research mathematics. | 3rd year, 2026-27 |
+| [mathematics-journal](https://github.com/Starcloud-retro/mathematics-journal) | Theory + proofs + code. From sets to research mathematics. | 3rd year, 2026-27 |
 | [chemical-kinetics-simulator](https://github.com/Starcloud-retro/chemical-kinetics-simulator) | ODE solver for UCLCHEM-style reaction networks. Dark cloud → PDR models. | 2027 |
 | [ai-for-science](https://github.com/Starcloud-retro/ai-for-science) | ML experiments beyond astronomy: regression, CV, scientific NLP. | 2027-28 |
 | [publications](https://github.com/Starcloud-retro/publications) | Papers, conference posters, research plans. | Ongoing |
@@ -153,9 +155,11 @@ I am actively seeking:
 
 **Email:** zaheerares1256@gmail.com
 
+**Discord:** Zackákro (display name) · retrogradestar (username)
+
 **Response time:** Usually within 24 hours. Slower during exam periods (November, May).
 
-**Preferred contact:** Email for formal collaboration, GitHub issues for code discussion.
+**Preferred contact:** Email for formal collaboration, GitHub issues for code discussion, Discord for casual chat.
 
 ---
 
