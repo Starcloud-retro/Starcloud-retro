@@ -1,216 +1,166 @@
-
 <div align="center">
 
-# SHAIK ZAHEER ABBAS           
-# B.Tech CSE (AI & ML) | Parallel B.Sc Mathematics | Exploring AI for Astrochemistry & Space Research | Aspiring Researcher
+# Shaik Zaheer Abbas
 
+**Computational Astrochemistry · Machine Learning for Astronomy · Molecular Spectroscopy**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Starcloud--retro.github.io-00e5ff?style=for-the-badge&labelColor=020408)](https://Starcloud-retro.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-skzaheerabbas-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020408)](https://www.linkedin.com/in/skzaheerabbas)
-[![GitHub](https://img.shields.io/badge/GitHub-Starcloud--retro-b06aff?style=for-the-badge&logo=github&logoColor=white&labelColor=020408)](https://github.com/Starcloud-retro)
+[Portfolio](https://starcloud-retro.github.io) · [Email](mailto: zaheerares1256@gmail.com)
 
 </div>
 
+---
 
-## 🛰️ About Me
+## What I Do
 
-```python
-zaheer = {
-    "degree"   : "B.Tech CSE (AI & ML)  +  Parallel B.Sc Mathematics",
-    "college"  : "Geethanjali College of Engineering & Technology, Hyderabad",
-    "year"     : "2nd Year (2024–2028)",
-    "research" : "Computational Astrochemistry × AI Systems",
-    "interned" : "IIT Guwahati — Chemistry of Protoplanetary Disks",
-    "awarded"  : "NASA Space Settlement Contest — Honorable Mention",
-    "goal"     : "Research @ ISRO / DRDO  →  Quantum AI Systems",
-    "clubs"    : ["IEEE (Nano · WIE · Sensors · SSIT)", "Code Warriors", "Aerospace Club"],
-}
-```
+I build computational tools that bridge **astrophysics** and **machine learning** — turning telescope data into discoverable patterns. Currently focused on three problems:
 
-> *"The cosmos is full of questions. I'm here to build the tools to answer them."*
+| Problem | Approach | Status |
+|---------|----------|--------|
+| Which exoplanets could support life? | Random Forest + Logistic Regression on NASA archive data | Mini project, Oct 2026 target |
+| Can a machine read ALMA spectra? | CNN for molecular line identification in noisy data | Major project, 2027 target |
+| How do molecules form in space? | ODE solver for astrochemical reaction networks | Foundation, ongoing |
 
+Each project feeds the next. Exoplanet habitability teaches me classification. Molecular line ID teaches me spectral analysis. Chemical kinetics teaches me the physics underneath. The goal is a unified tool: observe a star-forming region, identify its molecules, infer its chemistry, predict its planet-forming potential.
 
+---
 
+## Research Interests
 
-## 🏅 Recognition & Credentials
+- **Astrochemistry:** Molecular formation and destruction in interstellar environments. Chemical modeling of star-forming regions. ALMA spectral line surveys.
+- **AI for Astronomy:** Machine learning for spectral classification, exoplanet detection, and automated analysis of large astronomical datasets.
+- **Computational Physics:** Numerical solutions to astrophysical ODEs. Chemical kinetics simulations. Orbital mechanics and N-body problems.
+- **Statistical Methods:** Dimensionality reduction (PCA, t-SNE), Bayesian inference, uncertainty quantification in astronomical measurements.
 
-| | Credential | Issuer |
-|---|---|---|
-| 🛰️ | **Research Internship** — Chemistry of Protoplanetary Disks | IIT Guwahati |
-| 🏅 | **NASA Space Settlement Contest** — Honorable Mention | NASA / NSS |
-| 🤖 | AI Fundamentals | IBM · 2025 |
-| 🧠 | Generative AI Mastery Workshop | IIT Hyderabad · 2025 |
-| 🔬 | Generative AI Mastermind | Outskill · 2025 |
-| 🏭 | 3D Printing Workshop | NSIC · 2025 |
+---
 
+## Active Work
 
+### [computational-astronomy](https://github.com/Starcloud-retro/computational-astronomy)
 
-
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**⚗️ Chemical Kinetics Simulator**
-```
-Domain : Computational Astrochemistry
-Stack  : Python · SciPy · ODE Solvers
-Origin : IIT Guwahati Research
-```
-Models molecular kinetics in protoplanetary disk environments using numerical ODE solvers over astronomical timescales.
-
-</td>
-<td width="50%">
-
-**🌀 FFT Signal Anomaly Detector**
-```
-Domain : Signal Processing + Scientific ML
-Stack  : Python · NumPy · SciPy · FFT
-Use    : Astronomical / Telemetry Signals
-```
-Frequency-domain anomaly detection bridging classical signal processing with ML — for radio astronomy and space sensor data.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**🌍 Terrain Hazard Prediction**
-```
-Domain : Computer Vision · Safety-Critical AI
-Stack  : Python · TensorFlow · OpenCV
-```
-CV pipeline for terrain-based hazard classification with emphasis on model robustness and safety-critical reliability.
-
-</td>
-<td width="50%">
-
-**🏫 CampusConnect**
-```
-Domain : Full-Stack · Modular Architecture
-Stack  : Java · SQL · JDBC
-```
-Campus management system with client + admin portals. CRUD architecture, role-based access, and relational DB design.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**✈️ Fixed-Wing UAV Simulation** `[WIP]`
-```
-Domain : Aerospace · Computational Modelling
-Stack  : Pure Python
-Club   : Aeronautics & Aerospace Club
-```
-Simulating fixed-wing UAV flight dynamics — lift models, trajectory, and aerodynamic forces.
-
-</td>
-<td width="50%">
-
-**🌐 Portfolio Website**
-```
-Live  : Starcloud-retro.github.io
-Stack : HTML · CSS · Vanilla JS
-```
-Space-themed portfolio with animated nebula background, orbital hero, and full project + cert showcase.
-
-**[→ View Live Site](https://Starcloud-retro.github.io)**
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-## 🛠️ Tech Stack
+End-to-end pipeline for exoplanet habitability classification.
 
 ```
-Languages        Python   ████████████████░░░░  80%
-                 Java     ████████████░░░░░░░░  60%
-                 C        ███████░░░░░░░░░░░░░  35%
-                 JS       ██████░░░░░░░░░░░░░░  30%
-
-AI / ML          TensorFlow  ·  PyTorch  ·  Scikit-learn  ·  OpenCV
-                 NumPy  ·  Pandas  ·  Matplotlib
-
-Scientific       SciPy  ·  FFT  ·  ODE Solvers
-Computing        AstroPy [learning]  ·  Numerical Methods
-
-Systems          Flask  ·  FastAPI  ·  Docker  ·  GitHub Actions  ·  Git
-
-Databases        SQL  ·  JDBC
+NASA Exoplanet Archive → Data Cleaning → Feature Engineering 
+→ Random Forest / Logistic Regression → Evaluation → Publication Figures
 ```
 
+**Key technical choices:**
+- **Kasting model** for habitable zone boundaries (physics-based, not arbitrary)
+- **Class balancing** because habitable planets are ~1% of the dataset
+- **Derived features:** planetary density, insolation flux, equilibrium temperature
+- **Reproducible:** fixed random seeds, documented data sources, unit tests
 
+**What I learned building this:**
+- How to handle missing data in astronomical datasets (imputation vs. removal)
+- Why precision matters more than accuracy for rare-class classification
+- How to structure a research codebase (data/raw/, data/processed/, src/, tests/)
 
+### [astrochemistry-research](https://github.com/Starcloud-retro/astrochemistry-research)
 
+Literature reviews, reproduced methodologies, and research proposals.
 
-## 🗺️ Learning Roadmap
+**Current depth:**
+- Harada et al. (2024) — ALCHEMI survey: PCA classification of 100+ molecular species in NGC 253
+- Kasting et al. (1993) — Habitable zone physics: the equations behind my mini project
+- Draine (2011) — ISM physics: the environment where astrochemistry happens
 
-```
-[✅]  Stage 1 ── Foundations       Python · DSA · Git · Core CS (OS, DBMS, DM)
-[🔄]  Stage 2 ── ML Core           NumPy · Pandas · Scikit-learn · Model Evaluation
-[ ]  Stage 3 ── Deep Learning      TensorFlow/PyTorch · CNNs · Transfer Learning
-[ ]  Stage 4 ── Systems            Flask · Docker · CI/CD (GitHub Actions) · APIs
-[ ]  Stage 5 ── Advanced AI        Quantum Computing · Interdisciplinary Research
-[ ]  Stage 6 ── Astronomy Stack    AstroPy · Numerical Methods · ISRO/DRDO Research
-```
+**What I'm reading next:**
+- Spectroscopic data cubes: how ALMA turns photons into 3D datasets
+- UCLCHEM: time-dependent chemical networks for molecular cloud modeling
+- CNN architectures for 1D spectral data (not images — spectra)
 
+### [starcloud-retro.github.io](https://github.com/Starcloud-retro/starcloud-retro.github.io)
 
+This portfolio. Built with pure HTML/CSS/JS. No frameworks. Loads instantly on any device.
 
+**Why no React/Vite/Next.js:** A professor opening this on a phone in an airport doesn't need a build step. They need content. The tech stack is invisible by design.
 
-## 🌐 Affiliations
+**Contains:**
+- Interactive 3D models (Three.js): habitable zone solar system, water molecule, ALMA spectral window
+- MathJax equations: habitable zone physics, insolation flux, rotational transitions
+- Plotly visualizations: exoplanet scatter plots, chemical kinetics time evolution
+- Timeline: from undergraduate projects to graduate research
 
-```
-🏛️  IEEE Student Member
-    ├─ Nanotechnology Council
-    ├─ Women in Engineering
-    ├─ Sensors Council
-    └─ Society on Social Implications of Technology (SSIT)
+---
 
-💻  Code Warriors Club         AI/ML Coding Club — GCET
-✈️  Aeronautics & Aerospace    Working on Fixed-Wing UAV Simulation (Associate)
-🚀  SIH Internal Hackathon     Participant
-```
+## Planned Work
 
+| Repository | What It Will Be | When |
+|-----------|----------------|------|
+| [scientific-python](https://github.com/Starcloud-retro/scientific-python) | 42 math topics → Python implementations. NumPy, SciPy, SymPy. | 3rd year, 2026-27 |
+| [shabbs-mathematics-journal](https://github.com/Starcloud-retro/shabbs-mathematics-journal) | Theory + proofs + code. From sets to research mathematics. | 3rd year, 2026-27 |
+| [chemical-kinetics-simulator](https://github.com/Starcloud-retro/chemical-kinetics-simulator) | ODE solver for UCLCHEM-style reaction networks. Dark cloud → PDR models. | 2027 |
+| [ai-for-science](https://github.com/Starcloud-retro/ai-for-science) | ML experiments beyond astronomy: regression, CV, scientific NLP. | 2027-28 |
+| [publications](https://github.com/Starcloud-retro/publications) | Papers, conference posters, research plans. | Ongoing |
 
+---
 
+## Languages
 
-## 📊 GitHub Stats
+| Language | Level | Context |
+|----------|-------|---------|
+| **English** | Fluent | Academic writing, research papers, technical documentation |
+| **Urdu / Hindi** | Native | Family, community, cultural context |
+| **Telugu** | Conversational | Hyderabad, college, local collaboration |
+| **Japanese** | N5 preparation (Dec 2026) | Reading astrophysics papers, research collaboration |
+
+**Why Japanese:** I want to read Japanese astrophysics papers without translation loss and collaborate directly with researchers at NAOJ, ALMA-J, and other institutions without language as a barrier. The grammar of a language shapes the grammar of its science.
+
+**Current tools:** Bunpro (grammar), Ruupa (kanji radicals), Duolingo (vocabulary), NHK World (listening), Tadoku graded readers (reading).
+
+---
+
+## Education
+
+| Degree | Institution | Period | Focus |
+|--------|-------------|--------|-------|
+| BTech CSE (AI & ML) | Geethanjali College of Engineering & Technology | 2024–2028 | Machine learning for scientific applications |
+| BSc Mathematics | IGNOU (distance) | 2024–2027 | Calculus, linear algebra, ODEs, probability |
+
+**Current CGPA:** 8.4+
+
+---
+
+## Tools I Work With
+
+**Programming:** Python, C, Bash. NumPy, SciPy, pandas, scikit-learn, TensorFlow, Keras, Matplotlib, Plotly.
+
+**Workflow:** Git, GitHub, Jupyter, VS Code, EndeavourOS + KDE Plasma, LaTeX, Markdown.
+
+**Astronomy:** NASA Exoplanet Archive, ALMA Science Archive, CDMS/JPL spectral line catalogs, UCLCHEM.
+
+**Mathematics:** Linear algebra, multivariable calculus, ODEs, probability & statistics, discrete mathematics, proof techniques.
+
+**Why Linux:** Reproducible environments. No hidden dependencies. Everything is a file. The command line is the research interface.
+
+---
+
+## Writing
+
+I write science fiction — *Echoes of Eternity* has reached 110,000+ readers. I believe storytelling and scientific research are the same skill: observing patterns, building coherent worlds, and communicating them clearly. The protagonist is a researcher who discovers that galaxies hold echoes of events that haven't happened yet. The science is real. The struggle is mine.
+
+**Not on GitHub.** Writing is a separate channel. But it informs how I structure research papers: every equation needs a narrative, every figure needs a story.
+
+---
+
+## How to Reach Me
+
+I am actively seeking:
+- **Research collaborations** in astrochemistry, radio astronomy, or AI for science
+- **Mentorship** from researchers who've made the transition from undergraduate to graduate research
+- **Japanese language practice partners** (especially science/astronomy context)
+- **Feedback** on my code, papers, or research direction
+
+**Email:** zaheerares1256@gmail.com
+
+**Response time:** Usually within 24 hours. Slower during exam periods (November, May).
+
+**Preferred contact:** Email for formal collaboration, GitHub issues for code discussion.
+
+---
 
 <div align="center">
 
-![Zaheer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Starcloud-retro&show_icons=true&theme=dark&bg_color=020408&title_color=00e5ff&icon_color=b06aff&text_color=f0f4ff&border_color=1a2540&hide_border=false&include_all_commits=true&count_private=true)
+*Research is not about being smart. It's about being stubborn enough to keep looking when everyone else has stopped.*
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Starcloud-retro&layout=compact&theme=dark&bg_color=020408&title_color=00e5ff&text_color=f0f4ff&border_color=1a2540&hide_border=false)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Starcloud-retro&theme=dark&background=020408&ring=00e5ff&fire=b06aff&currStreakLabel=00e5ff&border=1a2540&stroke=1a2540)
-
-</div>
-
-> 
-
-
-
-## 📫 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 🌐 Portfolio | [Starcloud-retro.github.io](https://Starcloud-retro.github.io) |
-| 💼 LinkedIn | [linkedin.com/in/skzaheerabbas](https://www.linkedin.com/in/skzaheerabbas) |
-| 📧 Email | zaheerares1256@email.com |
-
-</div>
-
-
-
-<div align="center">
-<sub>Built with purpose · Hyderabad, India · 2026</sub>
 </div>
